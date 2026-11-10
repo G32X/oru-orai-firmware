@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.6",
-    "build":  18,
-    "size":  4345712,
-    "md5":  "72e46be1dd29a118e22f00a1240a0637",
-    "date":  "2026-11-10 23:02",
-    "notes":  "Kompaktiškesnis slankiklis; Kritulių kiekis, mm/m²"
+    "version":  "1.2.7",
+    "build":  19,
+    "size":  4345904,
+    "md5":  "0cc268c1327c43b9c5b457be93aa3834",
+    "date":  "2026-11-10 23:14",
+    "notes":  "Radaras: nepilnas naujausias kadras nerodomas; slankiklis -\u003e play -\u003e laikas"
 }
