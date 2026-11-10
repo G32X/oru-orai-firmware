@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.10",
-    "build":  22,
-    "size":  5038224,
-    "md5":  "6cf837486d8fcc6c3033cc835b790deb",
-    "date":  "2026-11-11 00:08",
-    "notes":  "Radaro režime ryškesnis Lietuvos kontūras; vienodi tarpai tarp slankiklio padalų"
+    "version":  "1.2.11",
+    "build":  23,
+    "size":  4402144,
+    "md5":  "d52a7aa8c11d63e2216df3c36cced216",
+    "date":  "2026-11-11 00:36",
+    "notes":  "Radare atskirai rodomas sniegas; tolygūs radaro slankiklio tarpai; pataisyta: trūkdavo naujausių radaro istorijos kadrų"
 }
