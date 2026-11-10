@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.7",
-    "build":  19,
-    "size":  4345904,
-    "md5":  "0cc268c1327c43b9c5b457be93aa3834",
-    "date":  "2026-11-10 23:14",
-    "notes":  "Radaras: nepilnas naujausias kadras nerodomas; slankiklis -\u003e play -\u003e laikas"
+    "version":  "1.2.8",
+    "build":  20,
+    "size":  4348080,
+    "md5":  "c07257fadd6d3ba9473af4201d70971b",
+    "date":  "2026-11-10 23:31",
+    "notes":  "Apie ir licencijos ekranas; LHMT CC BY-SA 4.0 užrašai; atviri duomenys ir licencijos"
 }
