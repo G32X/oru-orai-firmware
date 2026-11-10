@@ -3,6 +3,17 @@
 Šiame repo yra sukompiliuota „Orų Orai“ programa Waveshare ESP32-S3-Touch-LCD-7B ekraniukui (`firmware.bin`, `version.json`).
 Ekraniukai ją atsisiunčia per Wi-Fi: **Nustatymai → Programinė įranga**.
 
+## Ekrano kopijos
+
+| | |
+|---|---|
+| ![Orai](screenshots/01-orai.png) | ![Vėjas ir valandinė prognozė](screenshots/02-vejas-valandos.png) |
+| Orų žemėlapis ir dabartiniai orai | Vėjo žemėlapis ir valandinė prognozė |
+| ![Krituliai ir savaitė](screenshots/03-krituliai-savaite.png) | ![Radaras](screenshots/04-radaras.png) |
+| Kritulių žemėlapis ir savaitės prognozė | Kritulių radaras (tiesiogiai ir 2 val. istorija) |
+| ![Paieška](screenshots/05-paieska.png) | ![Užsklanda](screenshots/06-uzsklanda.png) |
+| Vietovės paieška (2324 LHMT vietovės) | Užsklanda |
+
 ## Orų duomenys (LHMT, CC BY-SA 4.0)
 
 Prognozės, faktiniai stebėjimai ir vietovių bei stočių sąrašas gaunami iš
