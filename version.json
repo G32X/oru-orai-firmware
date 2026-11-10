@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.9",
-    "build":  21,
-    "size":  4348976,
-    "md5":  "53826455e06ea6dc3a31cf412357df76",
-    "date":  "2026-11-10 23:55",
-    "notes":  "Radaras: patikimas PNG dekodavimas (PNGdec), nebedingsta kadrai; vienos eilutės šaltinio užrašas"
+    "version":  "1.2.10",
+    "build":  22,
+    "size":  5038224,
+    "md5":  "6cf837486d8fcc6c3033cc835b790deb",
+    "date":  "2026-11-11 00:08",
+    "notes":  "Radaro režime ryškesnis Lietuvos kontūras; vienodi tarpai tarp slankiklio padalų"
 }
