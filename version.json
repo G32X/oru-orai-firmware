@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.2",
-    "build":  14,
+    "version":  "1.2.3",
+    "build":  15,
     "size":  4345184,
-    "md5":  "9c415c8ad9968049ddaf08be3581a511",
-    "date":  "2026-11-10 21:53",
-    "notes":  "OTA: uždaromas TLS ryšys prieš atsisiuntimą"
+    "md5":  "87fcb0de2acb720d34abca9841076a43",
+    "date":  "2026-11-10 22:07",
+    "notes":  "Mėnesių pavadinimai iš didžiosios raidės"
 }
