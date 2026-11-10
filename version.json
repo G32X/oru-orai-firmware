@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.4",
-    "build":  16,
-    "size":  4345232,
-    "md5":  "22d6d77b939233306d17d8257783b8d9",
-    "date":  "2026-11-10 22:20",
-    "notes":  "Atnaujinimo langas nebeužsidaro; aprašymai žemėlapio kampe"
+    "version":  "1.2.5",
+    "build":  17,
+    "size":  4345648,
+    "md5":  "fa685017a268694afb9dc727be7206ba",
+    "date":  "2026-11-10 22:46",
+    "notes":  "Vietovė kraunama be atskiro lango; naujas slankiklio išdėstymas; radaro kadrai atsiunčiami iš naujo"
 }
