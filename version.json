@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.5",
-    "build":  17,
-    "size":  4345648,
-    "md5":  "fa685017a268694afb9dc727be7206ba",
-    "date":  "2026-11-10 22:46",
-    "notes":  "Vietovė kraunama be atskiro lango; naujas slankiklio išdėstymas; radaro kadrai atsiunčiami iš naujo"
+    "version":  "1.2.6",
+    "build":  18,
+    "size":  4345712,
+    "md5":  "72e46be1dd29a118e22f00a1240a0637",
+    "date":  "2026-11-10 23:02",
+    "notes":  "Kompaktiškesnis slankiklis; Kritulių kiekis, mm/m²"
 }
