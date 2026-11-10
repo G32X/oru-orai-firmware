@@ -47,6 +47,20 @@ Programinėje įrangoje įdiegti du LHMT sąrašai, jie čia pateikti atvirai pa
 - **Kritulių radaras:** Weather data by RainViewer, <https://www.rainviewer.com>. Radaro duomenis teikia nacionalinės meteorologijos tarnybos, žr. <https://www.rainviewer.com/sources.html>.
 - **Žemėlapis:** Made with Natural Earth (viešasis domenas), <https://www.naturalearthdata.com>.
 
+## Saugumas
+
+- **Pasirašyti atnaujinimai.** Nuo v1.2.12 `firmware.bin` pasirašomas ECDSA P-256 (SHA-256) parašu. Parašas yra paskutiniuose 512 baitų.
+  Ekraniukas įdiegia tik tinkamai pasirašytą programą. Nepasirašytas ar pakeistas failas atmetamas, o įrenginys toliau veikia su esama versija.
+  Viešasis raktas:
+  ```
+  -----BEGIN PUBLIC KEY-----
+  MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEf7N4p+rtATAGNW51qN0cNvwPQXIS
+  qceJkY1Cf++Pm17dEgKdvKEOiuvehF11xfsrbzjApfDFSeHsseuwry1Iqg==
+  -----END PUBLIC KEY-----
+  ```
+- **Šifruotas ryšys.** Visi ryšiai (api.meteo.lt, RainViewer, GitHub) naudoja HTTPS, o serverių sertifikatai tikrinami pagal Mozilla šakninių sertifikatų sąrašą.
+- **Gamykliniai nustatymai.** Mygtukas **Nustatymai → Atkurti gamyklinius** ištrina Wi-Fi tinklą ir slaptažodį, vietovę bei kitus nustatymus.
+
 ## Atviro kodo komponentai
 
 Pranešimai ir licencijos aprašyti [`NOTICE.md`](NOTICE.md). Pilni licencijų tekstai yra kataloge [`licenses/`](licenses/).

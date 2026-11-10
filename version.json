@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.11",
-    "build":  23,
-    "size":  4402144,
-    "md5":  "d52a7aa8c11d63e2216df3c36cced216",
-    "date":  "2026-11-11 00:36",
-    "notes":  "Radare atskirai rodomas sniegas; tolygūs radaro slankiklio tarpai; pataisyta: trūkdavo naujausių radaro istorijos kadrų"
+    "version":  "1.2.12",
+    "build":  24,
+    "size":  4482848,
+    "md5":  "bbc7e059d7263dc79877eb84c13de2cf",
+    "date":  "2026-11-11 01:08",
+    "notes":  "Pasirašyti atnaujinimai (ECDSA); tikrinami serverių sertifikatai; gamyklinių nustatymų atkūrimas"
 }
