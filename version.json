@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.1",
-    "build":  13,
-    "size":  4345152,
-    "md5":  "21b80c5b553a6ac4063aeb24be3264d6",
-    "date":  "2026-11-10 21:43",
-    "notes":  "Radaro animacija sustoja ties tiesioginiu vaizdu"
+    "version":  "1.2.2",
+    "build":  14,
+    "size":  4345184,
+    "md5":  "9c415c8ad9968049ddaf08be3581a511",
+    "date":  "2026-11-10 21:53",
+    "notes":  "OTA: uždaromas TLS ryšys prieš atsisiuntimą"
 }
