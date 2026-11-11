@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.12",
-    "build":  24,
-    "size":  4482848,
-    "md5":  "bbc7e059d7263dc79877eb84c13de2cf",
-    "date":  "2026-11-11 01:08",
-    "notes":  "Pasirašyti atnaujinimai (ECDSA); tikrinami serverių sertifikatai; gamyklinių nustatymų atkūrimas"
+    "version":  "1.2.13",
+    "build":  25,
+    "size":  4476224,
+    "md5":  "55bf72df796926438a82b3ae675384f4",
+    "date":  "2026-11-11 18:43",
+    "notes":  "Naujas pavadinimas: Lietuvos orų stotelė; atnaujinimas kas 10 min fone; radare rodomas paskutinio kadro laikas; krituliai mm/val."
 }

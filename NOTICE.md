@@ -1,4 +1,4 @@
-# Atviro kodo komponentai „Orų Orai“ programinėje įrangoje
+# Atviro kodo komponentai „Lietuvos orų stotelė“ programinėje įrangoje
 
 | Komponentas | Autorių teisės | Licencija | Tekstas |
 |---|---|---|---|

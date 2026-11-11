@@ -1,6 +1,6 @@
-# Orų Orai – programinės įrangos atnaujinimai ir atviri duomenys
+# Lietuvos orų stotelė – programinės įrangos atnaujinimai ir atviri duomenys
 
-Šiame repo yra sukompiliuota „Orų Orai“ programa Waveshare ESP32-S3-Touch-LCD-7B ekraniukui (`firmware.bin`, `version.json`).
+Šiame repo yra sukompiliuota „Lietuvos orų stotelė“ programa Waveshare ESP32-S3-Touch-LCD-7B ekraniukui (`firmware.bin`, `version.json`).
 Ekraniukai ją atsisiunčia per Wi-Fi: **Nustatymai → Programinė įranga**.
 
 ## Ekrano kopijos
