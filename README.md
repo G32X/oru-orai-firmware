@@ -7,12 +7,18 @@ Ekraniukai ją atsisiunčia per Wi-Fi: **Nustatymai → Programinė įranga**.
 
 | | |
 |---|---|
-| ![Orai](screenshots/01-orai.png) | ![Vėjas ir valandinė prognozė](screenshots/02-vejas-valandos.png) |
-| Orų žemėlapis ir dabartiniai orai | Vėjo žemėlapis ir valandinė prognozė |
-| ![Krituliai ir savaitė](screenshots/03-krituliai-savaite.png) | ![Radaras](screenshots/04-radaras.png) |
-| Kritulių žemėlapis ir savaitės prognozė | Kritulių radaras (tiesiogiai ir 2 val. istorija) |
-| ![Paieška](screenshots/05-paieska.png) | ![Užsklanda](screenshots/06-uzsklanda.png) |
-| Vietovės paieška (2324 LHMT vietovės) | Užsklanda |
+| ![Pradžios ekranas](screenshots/00-pradzia.png) | ![Orai](screenshots/01-orai.png) |
+| Pradžios ekranas | Orų žemėlapis ir dabartiniai orai |
+| ![Vėjas ir valandinė prognozė](screenshots/02-vejas-valandos.png) | ![Krituliai ir savaitė](screenshots/03-krituliai-savaite.png) |
+| Vėjo žemėlapis ir valandinė prognozė | Kritulių žemėlapis ir savaitės prognozė |
+| ![Radaras](screenshots/04-radaras.png) | ![Paieška](screenshots/05-paieska.png) |
+| Kritulių radaras (2 val. istorija, lietus ir sniegas, atnaujinama kas 10 min.) | Vietovės paieška (2324 LHMT vietovės) |
+| ![Šviesi tema](screenshots/08-sviesi-orai.png) | ![Šviesi tema, radaras](screenshots/09-sviesi-radaras.png) |
+| Šviesi tema | Šviesi tema: radaras ir savaitės prognozė |
+| ![English](screenshots/10-english.png) | ![Nustatymai](screenshots/07-nustatymai.png) |
+| Anglų kalba (English) | Nustatymai: ryškumas, užsklanda, tema, kalba, atnaujinimai |
+| ![Užsklanda](screenshots/06-uzsklanda.png) | |
+| Užsklanda | |
 
 ## Orų duomenys (LHMT, CC BY-SA 4.0)
 
@@ -59,7 +65,7 @@ Programinėje įrangoje įdiegti du LHMT sąrašai, jie čia pateikti atvirai pa
   -----END PUBLIC KEY-----
   ```
 - **Šifruotas ryšys.** Visi ryšiai (api.meteo.lt, RainViewer, GitHub) naudoja HTTPS, o serverių sertifikatai tikrinami pagal Mozilla šakninių sertifikatų sąrašą.
-- **Gamykliniai nustatymai.** Mygtukas **Nustatymai → Atkurti gamyklinius** ištrina Wi-Fi tinklą ir slaptažodį, vietovę bei kitus nustatymus.
+- **Gamykliniai nustatymai.** Mygtukas **Nustatymai → Gamykliniai nustatymai** ištrina Wi-Fi tinklą ir slaptažodį, vietovę bei kitus nustatymus.
 
 ## Atviro kodo komponentai
 
