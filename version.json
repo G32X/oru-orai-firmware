@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.14",
-    "build":  26,
-    "size":  4476208,
-    "md5":  "b6beab01e1dcdea755bd550deb3d5f64",
-    "date":  "2026-11-11 18:54",
-    "notes":  "Platus žemėlapio slankiklis; trumpesni užrašai"
+    "version":  "1.3.0",
+    "build":  27,
+    "size":  3981696,
+    "md5":  "3feb58e8c5664e02cd5669421dbec747",
+    "date":  "2026-11-11 19:24",
+    "notes":  "Šviesi tema ir anglų kalba (Nustatymai); radaras piešiamas į žemėlapį (mažiau atminties, greičiau); naujais mygtukų pavadinimais"
 }
