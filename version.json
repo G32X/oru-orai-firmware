@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.0",
-    "build":  27,
-    "size":  3981696,
-    "md5":  "3feb58e8c5664e02cd5669421dbec747",
-    "date":  "2026-11-11 19:24",
-    "notes":  "Šviesi tema ir anglų kalba (Nustatymai); radaras piešiamas į žemėlapį (mažiau atminties, greičiau); naujais mygtukų pavadinimais"
+    "version":  "1.3.1",
+    "build":  28,
+    "size":  3981616,
+    "md5":  "d293fd8c4a00d3b93f7c50d78b0c49b5",
+    "date":  "2026-11-11 22:21",
+    "notes":  "Programos pavadinimas lieka lietuviškas ir anglų kalba; mygtukas Factory reset"
 }
