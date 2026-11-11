@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.13",
-    "build":  25,
-    "size":  4476224,
-    "md5":  "55bf72df796926438a82b3ae675384f4",
-    "date":  "2026-11-11 18:43",
-    "notes":  "Naujas pavadinimas: Lietuvos orų stotelė; atnaujinimas kas 10 min fone; radare rodomas paskutinio kadro laikas; krituliai mm/val."
+    "version":  "1.2.14",
+    "build":  26,
+    "size":  4476208,
+    "md5":  "b6beab01e1dcdea755bd550deb3d5f64",
+    "date":  "2026-11-11 18:54",
+    "notes":  "Platus žemėlapio slankiklis; trumpesni užrašai"
 }
