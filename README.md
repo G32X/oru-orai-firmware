@@ -15,10 +15,8 @@ Ekraniukai ją atsisiunčia per Wi-Fi: **Nustatymai → Programinė įranga**.
 | Kritulių radaras (2 val. istorija, lietus ir sniegas, atnaujinama kas 10 min.) | Vietovės paieška (2324 LHMT vietovės) |
 | ![Šviesi tema](screenshots/08-sviesi-orai.png) | ![Šviesi tema, radaras](screenshots/09-sviesi-radaras.png) |
 | Šviesi tema | Šviesi tema: radaras ir savaitės prognozė |
-| ![English](screenshots/10-english.png) | ![Nustatymai](screenshots/07-nustatymai.png) |
-| Anglų kalba (English) | Nustatymai: ryškumas, užsklanda, tema, kalba, atnaujinimai |
-| ![Užsklanda](screenshots/06-uzsklanda.png) | |
-| Užsklanda | |
+| ![Nustatymai](screenshots/07-nustatymai.png) | ![Užsklanda](screenshots/06-uzsklanda.png) |
+| Nustatymai: ryškumas, užsklanda, tema, atnaujinimai | Užsklanda |
 
 ## Orų duomenys (LHMT, CC BY-SA 4.0)
 
